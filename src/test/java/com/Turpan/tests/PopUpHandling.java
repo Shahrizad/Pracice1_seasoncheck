@@ -20,6 +20,7 @@ public class PopUpHandling {
 
         alert.accept();
         alert.accept();
+       // alert.dismiss();
 
 
 
