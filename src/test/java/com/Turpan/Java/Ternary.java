@@ -1,6 +1,6 @@
 package com.Turpan.Java;
 
-public class Ternary {
+class Ternary {
 
     public static void main(String[] args) {
 
